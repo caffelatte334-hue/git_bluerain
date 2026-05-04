@@ -2,4 +2,8 @@
 i am a boy
 i am hungry
 This is a test
+<<<<<<< HEAD
 I am a rich <- 신규추가
+=======
+I made a decision <- 신규추가
+>>>>>>> 1bb92ea42ddfee1aefa1a511b6ff7b24834fd322
