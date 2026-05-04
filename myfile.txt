@@ -2,3 +2,4 @@
 i am a boy
 i am hungry
 This is a test
+I made a decision <- 신규추가
